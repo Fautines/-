@@ -1,7 +1,0 @@
-﻿  源.cpp
-D:\Users\HP\Desktop\常见的时间函数增长分析\常见的时间函数增长分析\源.cpp(6,8): warning C4273: “log2”: dll 链接不一致
-  D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(516,47):
-  参见“log2”的前一个定义
-  
-D:\Users\HP\Desktop\常见的时间函数增长分析\常见的时间函数增长分析\源.cpp(12,12): warning C4244: “return”: 从“double”转换到“long”，可能丢失数据
-  常见的时间函数增长分析.vcxproj -> D:\Users\HP\Desktop\常见的时间函数增长分析\x64\Debug\常见的时间函数增长分析.exe

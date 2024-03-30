@@ -1,4 +1,0 @@
-﻿  源.cpp
-D:\Users\HP\Desktop\求素数的个数\求素数的个数\源.cpp(38,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-D:\Users\HP\Desktop\求素数的个数\求素数的个数\源.cpp(46,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-  求素数的个数.vcxproj -> D:\Users\HP\Desktop\求素数的个数\x64\Debug\求素数的个数.exe
