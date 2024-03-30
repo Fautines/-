@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\Users\HP\Desktop\1-n的连续整数和\1-n的连续整数和\源.cpp(22,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Users\HP\Desktop\1-n的连续整数和\1-n的连续整数和\源.cpp(22,7): warning C4056: 浮点常量算术溢出
+D:\Users\HP\Desktop\1-n的连续整数和\1-n的连续整数和\源.cpp(29,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Users\HP\Desktop\1-n的连续整数和\1-n的连续整数和\源.cpp(29,7): warning C4056: 浮点常量算术溢出
+  1-n的连续整数和.vcxproj -> D:\Users\HP\Desktop\1-n的连续整数和\x64\Debug\1-n的连续整数和.exe
