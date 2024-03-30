@@ -1,0 +1,20 @@
+﻿  源.cpp
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(25,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“char *[]”
+  D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(25,10):
+  此参数由转换说明符使用
+  
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(25,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(25,10):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(25,10):
+  缺失的可变参数 2 为格式字符串“%s”所需
+  D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(25,10):
+  此参数用作缓冲区大小
+  
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(116,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“SqString”
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(116,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“SqString”
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(118,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“SqString”
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(125,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“SqString”
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(133,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“SqString”
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(139,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“SqString”
+D:\Users\HP\Desktop\串的实现\串的实现\源.cpp(69): error C4700: 使用了未初始化的局部变量“B”

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实验五 用栈求解迷宫问题的所有路径及最短路径程序", "实验五 用栈求解迷宫问题的所有路径及最短路径程序\实验五 用栈求解迷宫问题的所有路径及最短路径程序.vcxproj", "{CC48506C-FB87-4D33-A800-6490AD616AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Debug|x64.ActiveCfg = Debug|x64
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Debug|x64.Build.0 = Debug|x64
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Debug|x86.Build.0 = Debug|Win32
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Release|x64.ActiveCfg = Release|x64
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Release|x64.Build.0 = Release|x64
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Release|x86.ActiveCfg = Release|Win32
+		{CC48506C-FB87-4D33-A800-6490AD616AE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7AB47BF-FDFE-4703-840B-80AB241070E9}
+	EndGlobalSection
+EndGlobal
